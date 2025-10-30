@@ -97,27 +97,22 @@ The dataset used contains information on:<br>
 
 ## 📊 Dashboard Preview
 
-#### 🎯 Overview Dashboard
-![Overview Dashboard](./overview_score.png)
+#### 🎯 E-Commerce Performance Overview
+![E-Commerce Performance Overview](./e-commerce1.png)
 
-#### 👩‍🎓 Gender Performance Dashboard
-![Gender Performance](./performance_by_gender.png)
+#### Product Analysis
+![Product Analysis](./e-commerce2.png)
 
-#### 🌍 Race Performance Dashboard
-![Race Performance](./performance_by_race.png)
+#### Customer Behavior Analysis
+![Customer Behavior Analysis](./e-commerce3.png)
 
-#### 🎓 Parental Education Dashboard
-![Parental Education](./impact_of_perantal_education.png)
+#### Seller Performance
+![Seller Performance](./e-commerce4.png)
 
-#### 🍱 Lunch Effect on Performance Dashboard
-![Lunch Effect on Performance](./effect_lunch_performance.png)
+#### Delivery Performance
+![Delivery Performance](./e-commerce5.png)
 
-#### 🧠 Test Preparation Impact Dashboard
-![Test Preparation Impact](./test_prep_impact.png)
+#### Payment Type Analysis
+![Test Preparation Impact](./e-commerce6.png)
 
-#### Score Correlation Dashboard
-![Score Correlation](./correlation.png)
-
-#### Performance Category Dashboard
-![Performance Category](./performance_category.png)
 
