@@ -54,7 +54,7 @@ The high average spend and high product satisfaction indicate a high-quality pro
 ## 🛠️ Tools & Technologies
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
-- **Power Query (Data Analysis Expressions)**
+- **Power Query**
 - **Excel / CSV Data Source**
 - **GitHub** for version control and project sharing
 
