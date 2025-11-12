@@ -1,5 +1,4 @@
 # Brazilian_Olist_E-Commerce
-## This is the Study Case of the Brazilian E-Commerce Platform OLIST
 
 Olist is a Brazilian tech & e-commerce company founded in 2015 in Curitiba, Paraná.
 The dataset collected from Kaggle is full of missing values and mismatched data, a lot of typos. I tried to build a report based on the collected data. I cleaned up much of the data, corrected typos of a millions rows. When I started building the report i did not notice any issue until I want to build some KPIs, then I went back where I pulled the data and found a lot of comments stating how many things miss. Then I said to my self, what if the data were like that, what would it mean for a business. From there I tried to build as much as I can of some KPIs, and here is what I found:
@@ -77,7 +76,7 @@ The dataset used contains information on:<br>
 
 > *Note: The dataset is for educational purposes only.*
 
-#### 📁 StudentPerformanceAnalysis/
+#### 📁 Brazilian Olist E-Commerce/
 
 ├── README.md                                     – Summary overview <br>
 ├── Brazil_e_commerce_project                     – Power BI Report <br>
