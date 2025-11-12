@@ -62,7 +62,7 @@ The high average spend and high product satisfaction indicate a high-quality pro
 
 ## 📁 Dataset
 Dataset Information <br>
-The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) originally published as part of Exploring Student Achievement Trends dataset.<br>
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) originally published as part of Exploring the Brazilian Olist E-Commerce dataset.<br>
 The dataset used contains information on:<br>
 - Customer ID
 - Seller ID
